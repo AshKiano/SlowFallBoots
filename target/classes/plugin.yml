@@ -1,0 +1,8 @@
+name: SlowFallBoots
+version: '1.1'
+main: com.ashkiano.slowfallboots.SlowFallBoots
+api-version: '1.16'
+authors: [AshKiano]
+commands:
+  slowfallboots:
+    description: Gives the player a pair of slow fall boots.
